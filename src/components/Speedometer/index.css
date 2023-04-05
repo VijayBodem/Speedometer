@@ -1,0 +1,40 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #ffffff;
+  margin: 10px;
+}
+img {
+  height: 200px;
+  margin: 10px;
+}
+p {
+  color: #cbd5e1;
+  margin: 10px;
+}
+.btn1 {
+  background-color: #0b69ff;
+  padding: 10px 10px;
+  border: 0;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-right: 18px;
+}
+.btn2 {
+  background-color: transparent;
+  padding: 10px 10px;
+  border: 2px solid #94a3b8;
+  color: #cbd5e1;
+  border-radius: 5px;
+}
